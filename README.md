@@ -1,6 +1,11 @@
-## Table of Contents
-- [Overview](../overview.md)
-- [Security](./security.md)
-- [Gas Report](./gas-report.md)
-- [Slither Report](./slither-report.md)
-- [Known Issues](./known-issues.md)
+# 🔍 Audit Reports for MiniMoneyMarket
+
+This repository contains detailed audits and security reviews.  
+Explore each report below:
+
+- [Gas Report](./MiniMoneyMarket/gas-report.md)
+- [Known Issues](./MiniMoneyMarket/known-issues.md)
+- [Overview](./MiniMoneyMarket/overview.md)
+- [Security Analysis](./MiniMoneyMarket/security.md)
+- [Slither Report](./MiniMoneyMarket/slither-report.md)
+
