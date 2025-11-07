@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Overview](./MiniMoneyMarket/overview.md)
+- [Overview](../overview.md)
 - [Security](./security.md)
 - [Gas Report](./gas-report.md)
 - [Slither Report](./slither-report.md)
